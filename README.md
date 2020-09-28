@@ -1,0 +1,1 @@
+# compton-grayscale-reading-mode
