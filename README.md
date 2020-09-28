@@ -7,6 +7,8 @@ This has no effect on your wallpaper: I recommend setting a black wallpaper usin
 
 In grayscale mode, backend is always `glx`.
 
+![](screenshot.png)
+
 ## Usage
 
 compton-grayscale-reading-mode is a wrapper around compton. _Any command line arguments are passed along to compton._
